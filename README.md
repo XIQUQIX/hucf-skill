@@ -6,7 +6,7 @@
 [![Local First](https://img.shields.io/badge/Knowledge-Local_First-0A7F5A?style=for-the-badge)]()
 [![MIT License](https://img.shields.io/badge/License-MIT-F2C94C?style=for-the-badge)](LICENSE)
 
-<img width="500" height="611" alt="image" src="https://github.com/user-attachments/assets/9b55e027-c932-45a8-bd2e-84d99b109d38" />
+<img width="250" height="306" alt="image" src="https://github.com/user-attachments/assets/9b55e027-c932-45a8-bd2e-84d99b109d38" />
 
 
 一个面向 Claude Code 的本地知识库项目，目标是复用户晨风的说话风格、口头禅、强观点输出方式和直播互动习惯。
